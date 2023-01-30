@@ -12,3 +12,5 @@ print(story1.values())
 print(story1.get("start"))
 print(story1.get("middle"))
 print(story1.get("end"))
+
+story1.update({"Villain": "Viktor", })
